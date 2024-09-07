@@ -1,0 +1,102 @@
+absl-py==2.1.0
+astunparse==1.6.3
+bctpy==0.6.1
+beniget @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/beniget/beniget-0.4.1
+Bottleneck @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/Bottleneck/Bottleneck-1.3.4
+brainspace==0.1.10
+certifi==2024.2.2
+charset-normalizer==3.3.2
+contourpy==1.2.1
+cycler==0.12.1
+deap @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/deap/deap-1.3.1
+filelock==3.14.0
+flatbuffers==24.3.25
+fonttools==4.51.0
+fsspec==2024.6.0
+gast @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/gast/gast-0.5.3
+google-pasta==0.2.0
+grpcio==1.66.0
+h5py==3.11.0
+huggingface-hub==0.23.3
+idna==3.7
+Jinja2==3.1.4
+joblib==1.4.2
+JPype1==1.5.0
+kenlm==0.2.0
+keras==3.5.0
+kiwisolver==1.4.5
+libclang==18.1.1
+lxml==5.2.2
+Markdown==3.7
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+matplotlib==3.8.4
+mdurl==0.1.2
+ml-dtypes==0.4.0
+mpi4py @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/mpi4py/mpi4py-3.1.3
+mpmath @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/mpmath/mpmath-1.2.1
+mypy==1.10.0
+mypy-extensions==1.0.0
+namex==0.0.8
+networkx==3.3
+neuromaps==0.0.5
+nibabel==5.2.1
+nilearn==0.10.4
+numexpr @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/numexpr/numexpr-2.8.1
+numpy @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/numpy/numpy-1.22.3
+nvidia-cublas-cu12==12.1.3.1
+nvidia-cuda-cupti-cu12==12.1.105
+nvidia-cuda-nvrtc-cu12==12.1.105
+nvidia-cuda-runtime-cu12==12.1.105
+nvidia-cudnn-cu12==8.9.2.26
+nvidia-cufft-cu12==11.0.2.54
+nvidia-curand-cu12==10.3.2.106
+nvidia-cusolver-cu12==11.4.5.107
+nvidia-cusparse-cu12==12.1.0.106
+nvidia-nccl-cu12==2.20.5
+nvidia-nvjitlink-cu12==12.5.40
+nvidia-nvtx-cu12==12.1.105
+opt-einsum==3.3.0
+optree==0.12.1
+packaging==24.0
+pandas @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/pandas/pandas-1.4.2
+phyid @ git+https://github.com/Imperial-MIND-lab/integrated-info-decomp.git@f7fe791217ef5ee16cf9222a3ed089e66f423a1f
+pillow==10.3.0
+plotext==5.2.8
+ply @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/ply/ply-3.11
+protobuf==4.25.4
+pybind11 @ file:///dev/shm/hpcsw/pybind11/2.9.2/GCCcore-11.3.0/pybind11-2.9.2
+Pygments==2.18.0
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+pythran @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/pythran/pythran-0.11.0
+pytz==2024.1
+PyYAML==6.0.1
+regex==2024.5.15
+requests==2.31.0
+rich==13.7.1
+safetensors==0.4.3
+scikit-learn==1.4.2
+SciPy @ file:///dev/shm/hpcsw/SciPybundle/2022.05/foss-2022a/scipy/scipy-1.8.1
+seaborn==0.13.2
+sentence-transformers==3.0.1
+six==1.16.0
+surfplot==0.2.0
+surprisal==0.1.6
+sympy==1.12.1
+tensorboard==2.17.1
+tensorboard-data-server==0.7.2
+tensorflow-io-gcs-filesystem==0.37.1
+termcolor==2.4.0
+threadpoolctl==3.5.0
+tokenizers==0.19.1
+tomli==2.0.1
+torch==2.3.1
+tqdm==4.66.4
+transformers==4.41.2
+triton==2.3.1
+typing_extensions==4.11.0
+urllib3==2.2.1
+vtk==9.3.0
+Werkzeug==3.0.4
+wrapt==1.16.0
