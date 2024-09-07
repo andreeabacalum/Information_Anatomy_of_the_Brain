@@ -30,7 +30,7 @@ Requirements:
 
 1. Clone the repository:
 ```
- git clone https://gitlab.doc.ic.ac.uk/ab5621/Final-Code.git
+ git clone https://github.com/andreeabacalum/Information_Anatomy_of_the_Brain.git
 ```
 
 2. Installing dependencies: 
